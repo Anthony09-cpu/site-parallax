@@ -6,11 +6,12 @@ body{
    word-wrap: break-word;
    overflow-wrap: break-word;
 }
-p, h1,h2,h3{
+
+p,h1,h2{
  font-size: 20px;   
  color: #ffffff;
 }
-}
+
 
 .wrapper{
     width: 100%;

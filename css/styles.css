@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-   color: rgb(55, 90, 99);
+   color: rgb(0, 0, 0);
    font-family: Arial, Helvetica, sans-serif; 
    word-wrap: break-word;
    overflow-wrap: break-word;
@@ -74,15 +74,15 @@ section.module.parallax::after{
 }
 
 section.module.parallax-1{
-    background-image: url(../img/Camp_Nou.jpg);
+    background-image: url("../img/Camp_Nou.jpg");
 }
 
 section.module.parallax-2{
-    background-image: url(../img/Signal_Iduna_Park.jpg);
+    background-image: url("../img/Signal_Iduna_Park.jpg");
 }
 
 section.module.parallax-3{
-    background-image: url(../img/Old_Trafford.jpg);
+    background-image: url("../img/Old_Trafford.jpg");
 }
 
 section.module.parallax h1,h2,h3{
